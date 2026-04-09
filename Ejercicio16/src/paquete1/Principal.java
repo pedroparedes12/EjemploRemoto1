@@ -6,7 +6,7 @@ public class Principal {
 		
 		System.out.println ("Estamos haciendo control de versiones con Git");
 		System.out.println ("Segunda prueba de control de versiones con Git");
-		System.out.println ("Este es otro mas ");
+		
 
 	}
 
