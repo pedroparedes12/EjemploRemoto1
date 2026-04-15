@@ -1,0 +1,12 @@
+package paqueteRama1;
+
+public class PrincipalRama1 {
+
+	public static void main(String[] args) {
+		System.out.println ("Estamos haciendo control de versiones con Git, en la rama1");
+		System.out.println ("Estamos haciendo el segundo intento de control de versiones con Git, en la rama1");
+		
+
+	}
+
+}
